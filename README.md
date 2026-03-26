@@ -17,4 +17,4 @@ Demonstrates integration of mechanical linkage design with embedded motor contro
 
 ## Run
 ```bash
-python3 motor_control.py
+python3 scissor_linkage_actuation.py
